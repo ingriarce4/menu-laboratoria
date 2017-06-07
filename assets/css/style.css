@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+.flex-container{
+	display: flex;
+}
+
+nav{
+	width: 100%;
+	align-items: center;
+}
