@@ -1,0 +1,13 @@
+@media (min-width: 100px) and (max-width: 824px){
+	*{
+		font-family: 'Patrick Hand SC', cursive;
+	}
+	
+.menu-columna{
+		display: none;
+		flex-direction: column;
+	} 
+
+	nav{
+		flex-direction: column;
+	}
